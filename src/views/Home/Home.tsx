@@ -53,7 +53,7 @@ const Hero = styled.div`
       position: absolute;
       left: 0;
       top: 0;
-      width: 100%;
+      width: 90%;
       height: 100%;
       z-index: -1;
       opacity: 0.6;
@@ -93,7 +93,7 @@ const Home: React.FC = () => {
   return (
     <Page>
       <Heading as="h1" size="xl" mb="24px" color="secondary" >
-          {TranslateString(579, 'Yield Farming has begun.')}
+          {TranslateString(579, 'Yield Farming will start soon!')}
         </Heading>
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">

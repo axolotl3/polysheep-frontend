@@ -3,7 +3,7 @@ export default {
     137: '0x692ca411d82DeB4A96F8f89E173171b4Af83Badf'
   },
   masterChef: {
-    137: '0x126a1D2293943eb69056E8063Ded39Aa64453b03',
+    137: '0xad4f0A9B839F172297c8c228038D0BaDe3D1b5d1',
   },
   weth: {
     137: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"

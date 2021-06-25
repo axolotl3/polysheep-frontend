@@ -30,21 +30,21 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: '/pools',
   },
-  // {
-  //   label: 'Pools',
-  //   icon: 'PoolIcon',
-  //   href: '/pools',
-  // },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: '/lottery',
-  // },
-  // {
-  //   label: 'NFT',
-  //   icon: 'NftIcon',
-  //   href: '/nft',
-  // },
+  {
+    label: 'Games (Coming soon)',
+    icon: 'IfoIcon',
+    href: '/#/games',
+  },
+  {
+    label: 'Lottery (Coming soon)',
+    icon: 'TicketIcon',
+    href: '/#/lottery',
+  },
+  {
+    label: 'NFTs (Coming Soon)',
+    icon: 'NftIcon',
+    href: '/#/nft',
+  },
   {
     label: 'Info',
     icon: 'InfoIcon',

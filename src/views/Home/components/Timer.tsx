@@ -44,7 +44,7 @@ const Timer = () => {
 
 
   const stratTime = Date.now() / 1000; // use UNIX timestamp in seconds
-  const endTime = 1622634130; // use UNIX timestamp in seconds
+  const endTime = 1625634130; // use UNIX timestamp in seconds
 
   const remainingTime = endTime - stratTime;
   const days = Math.ceil(remainingTime / daySeconds);

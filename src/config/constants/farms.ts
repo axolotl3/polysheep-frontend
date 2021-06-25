@@ -5,7 +5,7 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'SWAN-USDC LP',
+    lpSymbol: 'WOOL-USDC LP',
     decimal: 18,
     lpAddresses: {
       137: '0x007AFE958D0A26BE92E8325A3b6fCc733AB81e09',
@@ -20,7 +20,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'SWAN-WMATIC LP',
+    lpSymbol: 'WOOL-WMATIC LP',
     decimal: 18,
     lpAddresses: {
       137: '0x770Db375516C814D76F7D87F21Ca023EB9bb02A4',
@@ -116,7 +116,7 @@ const farms: FarmConfig[] = [
     pid: 4,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'SWAN',
+    lpSymbol: 'WOOL',
     decimal: 18,
     lpAddresses: {
       137: '0x007AFE958D0A26BE92E8325A3b6fCc733AB81e09'
