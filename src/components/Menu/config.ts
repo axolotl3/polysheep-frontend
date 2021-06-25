@@ -53,7 +53,6 @@ const config: MenuEntry[] = [
         label: 'QuickSwap',
         href: 'https://info.quickswap.exchange/token/0x424b48cFfafF9f457e4638B1BD965F39Ef0f3905',
       },
-      },
     ],
   },
   {
