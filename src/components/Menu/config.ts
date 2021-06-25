@@ -12,7 +12,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://quickswap.exchange/#/swap?outputCurrency=0x424b48cFfafF9f457e4638B1BD965F39Ef0f3905',
+        href: 'https://quickswap.exchange/#/swap?outputCurrency=0xD29dF1E66b33ded18A39D4fc3ED48222eC8A4a1b  ',
       },
       {
         label: 'Liquidity',
@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'QuickSwap',
-        href: 'https://info.quickswap.exchange/token/0x424b48cFfafF9f457e4638B1BD965F39Ef0f3905',
+        href: 'https://info.quickswap.exchange/pair/0x689A567702107E8d6f9f9901c917D060e202b8b7',
       },
     ],
   },
