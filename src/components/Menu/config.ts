@@ -12,7 +12,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://quickswap.exchange/#/swap?outputCurrency=0x692ca411d82DeB4A96F8f89E173171b4Af83Badf',
+        href: 'https://quickswap.exchange/#/swap?outputCurrency=0x424b48cFfafF9f457e4638B1BD965F39Ef0f3905',
       },
       {
         label: 'Liquidity',
@@ -51,15 +51,8 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'QuickSwap',
-        href: 'https://info.quickswap.exchange/token/0x692ca411d82DeB4A96F8f89E173171b4Af83Badf',
+        href: 'https://info.quickswap.exchange/token/0x424b48cFfafF9f457e4638B1BD965F39Ef0f3905',
       },
-      {
-        label: 'Vfat Tools',
-        href: 'https://vfat.tools/polygon/polyswan/',
-      },
-      {
-        label: 'DappRadar',
-        href: 'https://dappradar.com/polygon/defi/polyswan-finance',
       },
     ],
   },
@@ -69,18 +62,13 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/PolySwanFinance',
+        href: '',
       },
       {
         label: 'Docs',
-        href: 'https://polyswan-finance.gitbook.io/polyswan-finance/',
+        href: '',
       },
     ],
-  },
-  {
-    label: 'Audit by Techrate',
-    icon: 'AuditIcon',
-    href: 'https://github.com/PolySwanFinance/polyswan-frontend/blob/main/files/audit.pdf',
   },
 ]
 
